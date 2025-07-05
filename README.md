@@ -92,17 +92,6 @@
             });
         });
     </script>
-</footer>
-<style
-        footer {
-            text-align: center;
-            margin-top: 20px;
-            font-size: 14px;
-            color: #777;
-        }
-    </style>
-</footer>
-
 </body>
 </html>
 
